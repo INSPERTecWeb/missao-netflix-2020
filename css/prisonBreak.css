@@ -370,11 +370,13 @@
     }
     .list .mobile1 .sub-episode p {
         font-size: 12px;
+        color: rgb(255, 255, 255);
         /*word-wrap: break-word;*/
         white-space: pre-line;
     }
     .list .mobile1 .sub-episode p:hover {
         cursor: pointer;
+        color: rgb(255, 255, 255);
         text-decoration: underline;
     }
     .list .mobile1 .sub-episode img:hover {
@@ -817,7 +819,7 @@
     .list .mobile1 .sub-episode p {
         font-size: 12px;
         word-wrap: break-word;
-        color: yellow;
+        color: rgb(255, 255, 255);
     }
     .mobile1 .sub-episode:nth-child(2) {
         position: relative;
